@@ -10,7 +10,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos443&layout=compact&langs_count=7&theme=dark"/>
 
 
-## Tecnologias que eu uso no meu dia
+
 <div style="display: inline_block">
   <img aling="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
