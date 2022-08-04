@@ -6,12 +6,9 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gabriel-08043b22b)
 <a href = "mailto:marcosgabriel79355@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Gabriell
-&layout_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Gabriell
-&layout=compact&langs_count=7&theme=dark"/>
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Gabriell&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Gabriell&hide=javascript,html)
 
 <div style="display: inline_block">
   <img aling="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
