@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Marcos Gabriel 👋
 - 📚 JAVA e JAVASCRIPT
-- 📖 Faço curso técnico em desenvolvimento de sistemas no senac
+- 📖 Estou cursando o curso  técnico em desenvolvimento de sistemas no senac
 - ✍️ Frameworks: React e Spring
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcosgabrielsantos_/)
