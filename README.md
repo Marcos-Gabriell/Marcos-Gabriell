@@ -4,7 +4,7 @@ Sou um estudante de desenvolvimento de software, destacando-me como um desenvolv
 
 <div align="center" style="margin-bottom: 100px;">
      <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Gabriell&show_icons=true&layout=compact&theme=dark" />
-     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-Gabriell&show_icons=true&theme=dark" />
+     <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-Gabriell&show_icons=true&theme=dark" />
    
 </div>
 
