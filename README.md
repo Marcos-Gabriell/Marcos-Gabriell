@@ -3,8 +3,9 @@
 Sou um estudante de desenvolvimento de software, destacando-me como um desenvolvedor full stack versátil, com habilidades sólidas em React, Angular, Java, Spring e JavaScript. Busco incessantemente a excelência e a inovação, o que me motiva a criar aplicações web de alta qualidade, cuidadosamente projetadas para atender e superar as expectativas dos usuários finais. Minha paixão pelo aprendizado contínuo me impulsiona a manter-me atualizado com as tendências mais recentes no desenvolvimento web, garantindo que minhas soluções estejam sempre na vanguarda da tecnologia.
 
 <div align="center" style="margin-bottom: 100px;">
-    <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Marcos-Gabriell&theme=radical&mode=weekly" />
-    <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Marcos-Gabriell&show_icons=true&theme=radical&layout=compact" />
+     <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Gabriell&show_icons=true&layout=compact&theme=dark" />
+     <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-Gabriell&show_icons=true&theme=dark" />
+   
 </div>
 
 ## My Skills
