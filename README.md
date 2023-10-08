@@ -39,13 +39,7 @@ Sou um estudante de desenvolvimento de software, destacando-me como um desenvolv
     <img align="center" alt="gradle" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 </div>
 
-#### Studying in this Moment:
-<div style="display: inline_block">
-    <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-    <img align="center" alt="Next" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
-    <img align="center" alt="Netlify" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
-</div>
+
 
 ### Hosting Platforms:
 <div style="display: inline_block">
