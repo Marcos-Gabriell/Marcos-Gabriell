@@ -39,6 +39,11 @@ Sou um estudante de desenvolvimento de software, destacando-me como um desenvolv
     <img align="center" alt="gradle" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 </div>
 
+#### Databases:
+<div style="display: inline_block">
+    <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
 
 
 ### Hosting Platforms:
