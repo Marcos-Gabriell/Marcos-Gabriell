@@ -69,7 +69,7 @@ Sou um estudante dedicado de desenvolvimento de software, com uma ampla experiê
     <img align="center" alt="Next" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
     <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
-    <img align="center" alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"> 
+
 </div>
 
 #### I intend to study:
