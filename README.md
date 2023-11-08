@@ -7,6 +7,20 @@
      <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-Gabriell&show_icons=true&theme=dark" />
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## My Skills
 
 #### Programming Languages:
