@@ -34,7 +34,6 @@
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
-
 #### Platforms and Tools:
 <div style="display: inline_block">
     <img align="center" alt="nodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
