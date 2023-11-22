@@ -70,6 +70,7 @@
 
 
 #### Studying in this Moment:
+
 <div style="display: inline_block">
     <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img align="center" alt="Next" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
