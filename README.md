@@ -9,8 +9,7 @@
 </div>
 
 
-## My Skil
-ls
+## My Skills
 
 #### Programming Languages:
 <div style="display: inline_block">
