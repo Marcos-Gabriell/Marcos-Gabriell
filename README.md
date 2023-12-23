@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Marcos Gabriel🖐
 
 
-
  Sou um estudante dedicado de desenvolvimento de software, com uma ampla experiência como desenvolvedor full stack. Minhas habilidades sólidas em React, Angular, Java, Spring e JavaScript me permitem criar aplicações web de alta qualidade, cuidadosamente projetadas para superar as expectativas dos usuários finais. Estou constantemente em busca da excelência e da inovação, o que me motiva a manter-me atualizado com as últimas tendências no desenvolvimento web. Minha paixão pelo aprendizado contínuo garante que minhas soluções estejam sempre na vanguarda da tecnologia.
 
 <div align="center" style="margin-bottom: 100px;">
