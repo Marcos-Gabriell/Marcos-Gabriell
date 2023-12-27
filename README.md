@@ -1,6 +1,13 @@
 ### Olá! Eu sou o Marcos Gabriel🖐
 
- Sou um estudante dedicado de desenvolvimento de software, com uma ampla experiência como desenvolvedor full stack. Minhas habilidades sólidas em React, Angular, Java, Spring e JavaScript me permitem criar aplicações web de alta qualidade, cuidadosamente projetadas para superar as expectativas dos usuários finais. Estou constantemente em busca da excelência e da inovação, o que me motiva a manter-me atualizado com as últimas tendências no desenvolvimento web. Minha paixão pelo aprendizado contínuo garante que minhas soluções estejam sempre na vanguarda da tecnologia.
+Sou um estudante comprometido com o desenvolvimento de software, buscando aprimorar minhas habilidades em React, Angular, Java, Spring e JavaScript. Dedico-me à criação de aplicações web de qualidade, sempre em busca de excelência e inovação. Mantenho-me atualizado com as últimas tendências no desenvolvimento web, e minha paixão pelo aprendizado contínuo garante que minhas soluções estejam sempre atualizadas.
+
+
+
+
+
+
+
 
 <div align="center" style="margin-bottom: 100px;">
      <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Gabriell&show_icons=true&layout=compact&theme=dark" />
