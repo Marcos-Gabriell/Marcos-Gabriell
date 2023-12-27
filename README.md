@@ -13,7 +13,6 @@
 
 
 
-## My Skills
 
 #### Programming Languages:
 <div style="display: inline_block">
