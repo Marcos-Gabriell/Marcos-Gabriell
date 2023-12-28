@@ -59,7 +59,7 @@ Sou um estudante comprometido com o desenvolvimento de software, buscando aprimo
     <img align="center" alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </div>
 
-#### work tools
+#### Work tools
 <div style="display: inline_block">
     <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img align="center" alt="IntelliJ_IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
