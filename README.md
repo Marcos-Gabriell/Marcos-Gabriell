@@ -63,7 +63,7 @@ Sou um estudante comprometido com o desenvolvimento de software, buscando aprimo
     <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
 
-#### Studying in this Moment:
+
 
 
 
