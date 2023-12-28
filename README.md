@@ -2,10 +2,7 @@
 
 Sou um estudante comprometido com o desenvolvimento de software, buscando aprimorar minhas habilidades em React, Angular, Java, Spring e JavaScript. Dedico-me à criação de aplicações web de qualidade, sempre em busca de excelência e inovação. Mantenho-me atualizado com as últimas tendências no desenvolvimento web, e minha paixão pelo aprendizado contínuo garante que minhas soluções estejam sempre atualizadas.
 
-<div align="center" style="margin-bottom: 100px;">
-     <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Gabriell&show_icons=true&layout=compact&theme=dark" />
-     <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-Gabriell&show_icons=true&theme=dark" />
-</div>
+
 
 <br />
 
