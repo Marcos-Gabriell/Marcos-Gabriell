@@ -63,10 +63,6 @@ Sou um estudante comprometido com o desenvolvimento de software, buscando aprimo
     <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
 
-
-
-
-
 #### I intend to study:
 <div style="display: inline_block">
     <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
