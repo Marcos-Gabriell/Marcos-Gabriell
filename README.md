@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Marcos Gabriel🖐
 
 
-
 Sou um estudante comprometido com o desenvolvimento de software, buscando aprimorar minhas habilidades em React, Angular, Java, Spring e JavaScript. Dedico-me à criação de aplicações web de qualidade, sempre em busca de excelência e inovação. Mantenho-me atualizado com as últimas tendências no desenvolvimento web, e minha paixão pelo aprendizado contínuo garante que minhas soluções estejam sempre atualizadas.
 
 <div align="center" style="margin-bottom: 100px;">
