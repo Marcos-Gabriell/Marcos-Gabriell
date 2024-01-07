@@ -15,7 +15,7 @@ Sou um estudante comprometido com o desenvolvimento de software, buscando aprimo
 
 ## Tecnologias:
 
-### Linguagens:
+#### Linguagens:
 <div style="display: inline_block">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
@@ -37,7 +37,7 @@ Sou um estudante comprometido com o desenvolvimento de software, buscando aprimo
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-### Hospedagem e Deploy:
+#### Hospedagem e Deploy:
 <div style="display: inline_block">
     <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img align="center" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
