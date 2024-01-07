@@ -15,7 +15,7 @@ Sou um estudante comprometido com o desenvolvimento de software, buscando aprimo
 
 ## Tecnologias:
 
-### Linguagens de Programação:
+### Linguagens:
 <div style="display: inline_block">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
