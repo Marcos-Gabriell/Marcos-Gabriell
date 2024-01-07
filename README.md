@@ -9,7 +9,9 @@ Sou um estudante comprometido com o desenvolvimento de software, buscando aprimo
 
 ---
 
-## Linguagens de Programação:
+## Tecnologias:
+
+### Linguagens de Programação:
 <div style="display: inline_block">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
@@ -49,6 +51,7 @@ Sou um estudante comprometido com o desenvolvimento de software, buscando aprimo
     <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </div>
+
 ---
 
 &nbsp;
