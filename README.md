@@ -57,9 +57,6 @@ Sou um estudante comprometido com o desenvolvimento de software, buscando aprimo
 
 ---
 
-&nbsp;
-&nbsp;
-
 ## Contatos:
 
 <div>
