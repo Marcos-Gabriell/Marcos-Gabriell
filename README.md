@@ -1,10 +1,17 @@
 # Bem-vindo ao Meu Perfil! 🚀
 
-Sou um estudante comprometido com o desenvolvimento de software, buscando aprimorar minhas habilidades em React, Angular, Java, Spring e JavaScript. Dedico-me à criação de aplicações web de qualidade, sempre em busca de excelência e inovação. Mantenho-me atualizado com as últimas tendências no desenvolvimento web, e minha paixão pelo aprendizado contínuo garante que minhas soluções estejam sempre atualizadas
-<div align="center">
-    
-[![Marcos top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Gabriell&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Sou um estudante comprometido com o desenvolvimento de software, buscando aprimorar minhas habilidades em React, Angular, Java, Spring e JavaScript. Dedico-me à criação de aplicações web de qualidade, sempre em busca de excelência e inovação. Mantenho-me atualizado com as últimas tendências no desenvolvimento web, e minha paixão pelo aprendizado contínuo garante que minhas soluções estejam sempre atualizadas.
+
+<div align="center" style="margin-bottom: 100px;">
+     <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Gabriell&show_icons=true&layout=compact&theme=dark" />
+     <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-Gabriell&show_icons=true&theme=dark" />
 </div>
+
+<br />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcos-Gabriell&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ## Tecnologias:
 
