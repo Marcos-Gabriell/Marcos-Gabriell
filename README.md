@@ -4,9 +4,7 @@ Sou um estudante comprometido com o desenvolvimento de software, buscando aprimo
 <div align="center">
     
 [![Marcos top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Gabriell&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
----
 
 ## Tecnologias:
 
