@@ -33,6 +33,7 @@ Meu principal objetivo é adquirir experiência prática, aplicando tudo o que a
 <div style="display: inline_block">
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+     <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDb-00000F?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 ### 🔹 DevOps & Cloud:
