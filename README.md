@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Marcos Gabriel
 
-💻 Desenvolvedor Full Stack em formação, apaixonado por tecnologia, inovação e aprendizado constante.
+💻 Desenvolvedor Full Stack, apaixonado por tecnologia, inovação e aprendizado constante.
 
 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas na Unijorge**, com formação técnica pelo **Senac** e mais de **3 anos de experiência em programação** — mesmo com apenas 17 anos.
 
