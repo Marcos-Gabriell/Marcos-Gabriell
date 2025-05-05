@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Marcos Gabriel
 
-💻 Desenvolvedor Full Stack, apaixonado por tecnologia, inovação e aprendizado constante.
+💻 Desenvolvedor Full Stack apaixonado por tecnologia, inovação e aprendizado constante. Desde os 13 anos explorando programação, hoje acumulo mais de **3 anos de experiência prática**, mesmo com apenas 17 anos.
 
-🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas na Unijorge**, com formação técnica pelo **Senac** e mais de **3 anos de experiência em programação** — mesmo com apenas 17 anos.
+🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas na Unijorge**, com formação técnica pelo **Senac**.
 
 🔍 Busco oportunidades para aplicar meu conhecimento em projetos reais, criar soluções escaláveis e crescer junto com a tecnologia.
 
@@ -40,6 +40,29 @@
 
 ---
 
+## 🚀 Projetos em Destaque
+
+🔹 **[Microsserviços com Spring Boot & RabbitMQ](https://github.com/Marcos-Gabriell/Microsservicos-SpringBoot-RabbitMQ)**  
+Sistema de gerenciamento de pedidos com comunicação assíncrona (RabbitMQ), PostgreSQL, Docker e deploy na AWS.
+
+🔹 **[Testes com Spring Boot](https://github.com/Marcos-Gabriell/testes-api)**  
+Criação de APIs REST com Spring Boot e testes de unidade usando JUnit5 e Mockito.
+
+🔹 **[CryptoApp - Gerenciador de Criptomoedas](https://github.com/Marcos-Gabriell/spring-CryptoApi)**  
+Aplicação em Java + Spring Boot com frontend em Vue.js. Integração via Axios e persistência em H2/MySQL.
+
+🔹 **[Sistema de Ordens de Serviço - Fullstack](https://github.com/Marcos-Gabriell/OS-API)**  
+Back-end com Spring Boot e front-end Angular para gerenciamento de técnicos, clientes e ordens de serviço.  
+👉 [Frontend](https://github.com/Marcos-Gabriell/OS-FRONT)
+
+🔹 **[BlueFood](https://github.com/Marcos-Gabriell/bluefood)**  
+Sistema web inspirado no iFood: pedidos, status, pagamentos com cartão e serviço web próprio (sbpay).
+
+🔹 **[BlueTasks](https://github.com/Marcos-Gabriell/blue-tasks)**  
+Gerenciador de tarefas pessoais com funcionalidades de listagem, edição e marcação como concluída.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -59,6 +82,6 @@ Estou pronto para os desafios do mercado, com foco em crescimento técnico e ent
 
 ## 📬 Conecte-se comigo
 
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosgabriel79355@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gabriel-08043b22b/)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosgabriel79355@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosgabriel-dev/)  
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marcosgabriel.vercel.app)
