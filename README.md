@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Marcos Gabriel
 
-💻 Desenvolvedor Full Stack apaixonado por tecnologia, inovação e aprendizado constante. Desde os 13 anos explorando programação, hoje acumulo mais de **3 anos de experiência prática**, mesmo com apenas 17 anos.
+💻 Desenvolvedor Full Stack, apaixonado por tecnologia, inovação e aprendizado contínuo. Programo desde os 14 anos e, mesmo com apenas 17, já acumulo mais de 3 anos de experiência prática desenvolvendo projetos para estudos e aperfeiçoamento contínuo.
 
 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas na Unijorge**, com formação técnica pelo **Senac**.
 
@@ -82,6 +82,4 @@ Estou pronto para os desafios do mercado, com foco em crescimento técnico e ent
 
 ## 📬 Conecte-se comigo
 
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosgabriel79355@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosgabriel-dev/)  
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marcosgabriel.vercel.app)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosgabriel79355@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosgabriel-dev/)  [![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marcosgabriel.vercel.app)
