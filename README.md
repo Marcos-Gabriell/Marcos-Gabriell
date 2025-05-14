@@ -1,8 +1,9 @@
 <h1 align="center">Marcos Gabriel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=👨‍💻+Desenvolvedor+Full+Stack;🚀+Apaixonado+por+Tecnologia+e+Inovação;🎓+Estudante+de+ADS+na+Unijorge" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=👨‍💻+Desenvolvedor+Full+Stack;🚀+Apaixonado+por+Tecnologia+e+Inovação;🎓+Estudante+de+ADS+na+Unijorge&pause=500&width=435&height=45&duration=3000" />
 </p>
+
 
 ## 👋 Sobre mim
 
