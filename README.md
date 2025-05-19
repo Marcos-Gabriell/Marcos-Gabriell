@@ -59,9 +59,9 @@ Olá! Sou **Marcos Gabriel**, desenvolvedor **Full Stack** com mais de 3 anos de
 | [🔗 Microsserviços com Spring Boot & RabbitMQ](https://github.com/Marcos-Gabriell/Microsservicos-SpringBoot-RabbitMQ) | Spring Boot, RabbitMQ, Docker, AWS | Sistema de gerenciamento de pedidos com arquitetura assíncrona. |
 | [🔗 Testes com Spring Boot](https://github.com/Marcos-Gabriell/testes-api) | JUnit5, Mockito, Spring Boot | API REST com testes unitários. |
 | [🔗 CryptoApp - Criptomoedas](https://github.com/Marcos-Gabriell/spring-CryptoApi) | Java, Spring Boot, Vue.js | Integração com Axios, persistência em MySQL. |
-| [🔗 Sistema de Ordens de Serviço](https://github.com/Marcos-Gabriell/OS-API) | Spring Boot, Angular | Front e Back integrados para gestão de ordens. |
-| [🔗 BlueFood](https://github.com/Marcos-Gabriell/bluefood) | Spring MVC | Sistema estilo iFood com serviço de pagamento próprio. |
-| [🔗 BlueTasks](https://github.com/Marcos-Gabriell/blue-tasks) | Spring, Thymeleaf | Lista de tarefas com CRUD e marcação de status. |
+| [🔗 Sistema de Ordens de Serviço](https://github.com/Marcos-Gabriell/os-backend) | Spring Boot, Angular | Front e Back integrados para gestão de ordens. |
+| [🔗 BlueFood](https://github.com/Marcos-Gabriell/BlueFood) | Spring MVC | Sistema estilo iFood com serviço de pagamento próprio. |
+| [🔗 BlueTasks](https://github.com/Marcos-Gabriell/BlueTasks) | Spring, Thymeleaf | Lista de tarefas com CRUD e marcação de status. |
 
 ---
 
