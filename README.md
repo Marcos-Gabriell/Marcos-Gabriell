@@ -7,7 +7,7 @@
 
 ## 👋 Sobre mim
 
-Olá! Sou **Marcos Gabriel**, desenvolvedor **Full Stack** com mais de 3 anos de experiência prática em desenvolvimento de sistemas. Tenho 17 anos, programo desde os 14 e sou movido por tecnologia, desafios e aprendizado contínuo.
+Olá! Sou **Marcos Gabriel**, desenvolvedor **Full Stack** com mais de 3 anos de experiência prática em desenvolvimento de sistemas. Tenho 18 anos, programo desde os 14 e sou movido por tecnologia, desafios e aprendizado contínuo.
 
 🎓 Cursando **Análise e Desenvolvimento de Sistemas na Unijorge**, com formação técnica pelo **Senac**.  
 🔍 Em busca de oportunidades para aplicar meu conhecimento em projetos reais, construir soluções escaláveis e evoluir com a tecnologia.  
