@@ -7,7 +7,7 @@
 
 ## 👋 Sobre mim
 
-Olá! Sou **Marcos Gabriel**, desenvolvedor **Full Stack** com mais de 3 anos de experiência prática em desenvolvimento de sistemas. Tenho 18 anos, programo desde os 14 e sou movido por tecnologia, desafios e aprendizado contínuo.
+Sou desenvolvedor Full Stack focado em desenvolvimento web com Java, Spring Boot e Angular, criando aplicações robustas, escaláveis e seguras. Tenho experiência prática em arquitetura de software, boas práticas e trabalho em equipe para entregar soluções de alta qualidade.
 
 🎓 Cursando **Análise e Desenvolvimento de Sistemas na Unijorge**, com formação técnica pelo **Senac**.  
 🔍 Em busca de oportunidades para aplicar meu conhecimento em projetos reais, construir soluções escaláveis e evoluir com a tecnologia.  
