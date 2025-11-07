@@ -1,15 +1,17 @@
 <h1 align="center">🚀 Marcos Gabriel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=👨‍💻+Desenvolvedor+FullStack;🚀+Java+%7C+Spring+Boot+%7C+Angular;🧠+Arquitetura+Robusta+%7C+Cloud+%7C+IA;💡+Inovação+%7C+Performance+%7C+Segurança&pause=500&width=520&height=45&duration=3000" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=👨‍💻+Desenvolvedor+FullStack;🚀+Java+%7C+Spring+Boot+%7C+Angular;🧠+Arquitetura+Robusta+%7C+Cloud+%7C+IA;💡+Inovação+%7C+Performance+%7C+Segurança&pause=500&width=520&height=45&duration=3000" />
 </p>
+
+
+
+## 👋 Sobre mim
 
 <img src="https://cdn.pixabay.com/photo/2017/05/09/13/33/laptop-2298286_1280.png" align="right" width="35%">
 
-## 👋 Sobre mim
-<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="35px">
 
-Sou **Marcos Gabriel**, desenvolvedor **FullStack** com foco em **Java, Spring Boot e Angular**, apaixonado por transformar ideias em sistemas **robustos, escaláveis e seguros**.  
+Sou **Marcos Gabriel**, desenvolvedor **FullStack** com foco em **Java, Spring Boot e Angular**, apaixonado por transformar ideias em sistemas **robustos, escaláveis e seguros**.  
 Estudo programação desde os **14 anos** e, desde o final de **2021**, venho me aprofundando no desenvolvimento web, com ênfase em **arquitetura de software**, **boas práticas** e **engenharia aplicada**.
 
 Busco sempre inovar e evoluir como profissional, aplicando conceitos de:
@@ -87,7 +89,7 @@ Busco sempre inovar e evoluir como profissional, aplicando conceitos de:
 ![Integração Contínua](https://img.shields.io/badge/Integra%C3%A7%C3%A3o_Cont%C3%ADnua-000?style=for-the-badge&logo=githubactions)
 ![Construção do Análogo](https://img.shields.io/badge/Constru%C3%A7%C3%A3o_do_An%C3%A1logo-000?style=for-the-badge&logoColor=white)
 
-> 🎯 Aprimorando fundamentos de **arquitetura distribuída, integração contínua, automação de testes e segurança avançada**.  
+> 🎯 Aprimorando fundamentos de **arquitetura distribuída, integração contínua, automação de testes e segurança avançada**.  
 > Foco atual em **PHP/Laravel e Node.js** para criação de sistemas web completos, **comunicação entre microsserviços**, **design de APIs** e **melhores práticas de DevOps**.
 
 
@@ -110,18 +112,15 @@ Busco sempre inovar e evoluir como profissional, aplicando conceitos de:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Marcos-Gabriell&theme=tokyonight&no-frame=true&row=1&margin-w=15&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Marcos-Gabriell&theme=tokyonight&no-frame=true&row=1&margin-w=15&margin-h=10" />
 
-<br/>
+  <br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Gabriell&show_icons=true&theme=radical&bg_color=0,000000,0d1117&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&border_radius=15&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Gabriell&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0,000000,0d1117&title_color=00BFFF&text_color=FFFFFF&border_radius=15"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Gabriell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=15" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Gabriell&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<br/>
-
-
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcos-Gabriell&theme=tokyonight" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcos-Gabriell&theme=tokyonight" />
 
 </div>
 
@@ -132,6 +131,6 @@ Busco sempre inovar e evoluir como profissional, aplicando conceitos de:
 ## 🧩 Curiosidades
 - 🛡️ Fã de **Arquitetura e Engenharia de Software**
 - 🎮 Gamer e curioso por **UI/UX e design tech**
-- 🎵 Programo ouvindo música todos os dias 🎧  
-- 🤖 Explorando **IA + Dev** para produtividade e automação  
+- 🎵 Programo ouvindo música todos os dias 🎧  
+- 🤖 Explorando **IA + Dev** para produtividade e automação  
 - 💪 Acredito que **cada linha de código constrói o futuro**
