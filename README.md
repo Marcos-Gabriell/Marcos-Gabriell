@@ -1,100 +1,138 @@
-<h1 align="center">Marcos Gabriel</h1>
+<h1 align="center">🚀 Marcos Gabriel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=👨‍💻+Desenvolvedor+Full+Stack;🚀+Apaixonado+por+Tecnologia+e+Inovação;🎓+Estudante+de+ADS+na+Unijorge&pause=500&width=435&height=45&duration=3000" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=👨‍💻+Desenvolvedor+FullStack;🚀+Java+%7C+Spring+Boot+%7C+Angular;🧠+Arquitetura+Robusta+%7C+Cloud+%7C+IA;💡+Inovação+%7C+Performance+%7C+Segurança&pause=500&width=520&height=45&duration=3000" />
 </p>
 
+<img src="https://cdn.pixabay.com/photo/2017/05/09/13/33/laptop-2298286_1280.png" align="right" width="35%">
 
 ## 👋 Sobre mim
+<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="35px">
 
-Sou desenvolvedor Full Stack focado em desenvolvimento web com Java, Spring Boot e Angular, criando aplicações robustas, escaláveis e seguras. Tenho experiência prática em arquitetura de software, boas práticas e trabalho em equipe para entregar soluções de alta qualidade.
+Sou **Marcos Gabriel**, desenvolvedor **FullStack** com foco em **Java, Spring Boot e Angular**, apaixonado por transformar ideias em sistemas **robustos, escaláveis e seguros**.  
+Estudo programação desde os **14 anos** e, desde o final de **2021**, venho me aprofundando no desenvolvimento web, com ênfase em **arquitetura de software**, **boas práticas** e **engenharia aplicada**.
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas na Unijorge**, com formação técnica pelo **Senac**.  
-🔍 Em busca de oportunidades para aplicar meu conhecimento em projetos reais, construir soluções escaláveis e evoluir com a tecnologia.  
-🌐 Foco atual: Microsserviços, DevOps e Arquitetura de Software.
+Busco sempre inovar e evoluir como profissional, aplicando conceitos de:
+- **Domain-Driven Design (DDD)** e **Arquitetura Hexagonal / Limpa / Diagonal**
+- **Microsserviços e Comunicação Assíncrona (RabbitMQ, Kafka)**
+- **Autenticação, Autorização, Multi-Tenant e Segurança de API**
+- **Testes Automatizados e Integração Contínua (CI/CD)**
+- **Infraestrutura como Código (Docker, Kubernetes, Terraform)**
+- **Integração da IA no desenvolvimento e automação inteligente**
+
+💡 Meu propósito é criar soluções que unam **eficiência técnica e impacto real**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 📬 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/marcosgabriel-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:marcosgabriel79355@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://marcosgabriel.vercel.app)
 
-### 💬 Linguagens
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 💻 Habilidades Principais
 
-### ⚙️ Frameworks & Bibliotecas
+### ⚙️ Back-End
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![JUnit](https://img.shields.io/badge/JUnit-000?style=for-the-badge&logo=junit5&logoColor=25A162)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🎨 Front-End
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### 🧠 Banco de Dados
+### ☁️ Cloud, DevOps & Infra
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform&logoColor=7B42BC)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-000?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-000?style=for-the-badge&logo=vault&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🧠 Arquitetura & Boas Práticas
+![DDD](https://img.shields.io/badge/Domain_Driven_Design-000?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-000?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000?style=for-the-badge)
+![Hexagonal Arch](https://img.shields.io/badge/Arquitetura_Hexagonal-000?style=for-the-badge)
+![API Security](https://img.shields.io/badge/Seguran%C3%A7a_de_API-000?style=for-the-badge)
+![Client Code](https://img.shields.io/badge/Client_Code-000?style=for-the-badge)
 
-### ☁️ DevOps & Cloud
+### 📨 Mensageria & Comunicação
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka)
+![GRPC](https://img.shields.io/badge/gRPC-000?style=for-the-badge&logo=grpc)
+![API Gateway](https://img.shields.io/badge/API_Gateway-000?style=for-the-badge&logo=apigateway)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-555555?style=for-the-badge&logo=githubactions&logoColor=white)
+---
 
-### 🧩 Arquitetura & Microsserviços
+## 📚 Estudando agora
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform)
+![Vault](https://img.shields.io/badge/Vault-000?style=for-the-badge&logo=vault)
+![Client Code](https://img.shields.io/badge/Client_Code-000?style=for-the-badge)
+![Segurança de API](https://img.shields.io/badge/Seguran%C3%A7a_de_API-000?style=for-the-badge)
+![API Design](https://img.shields.io/badge/API_Design_%26_Request-000?style=for-the-badge)
+![API Gateway](https://img.shields.io/badge/API_Gateway-000?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-000?style=for-the-badge)
+![Testes Automatizados](https://img.shields.io/badge/Testes_Automatizados-000?style=for-the-badge)
+![Integração Contínua](https://img.shields.io/badge/Integra%C3%A7%C3%A3o_Cont%C3%ADnua-000?style=for-the-badge&logo=githubactions)
+![Construção do Análogo](https://img.shields.io/badge/Constru%C3%A7%C3%A3o_do_An%C3%A1logo-000?style=for-the-badge&logoColor=white)
 
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=databricks&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+> 🎯 Aprimorando fundamentos de **arquitetura distribuída, integração contínua, automação de testes e segurança avançada**.  
+> Foco atual em **PHP/Laravel e Node.js** para criação de sistemas web completos, **comunicação entre microsserviços**, **design de APIs** e **melhores práticas de DevOps**.
+
 
 ---
 
 ## 🚀 Projetos em Destaque
-
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|----------|
-| [🔗 Microsserviços com Spring Boot & RabbitMQ](https://github.com/Marcos-Gabriell/Microsservicos-SpringBoot-RabbitMQ) | Spring Boot, RabbitMQ, Docker, AWS | Sistema de gerenciamento de pedidos com arquitetura assíncrona. |
-| [🔗 Testes com Spring Boot](https://github.com/Marcos-Gabriell/testes-api) | JUnit5, Mockito, Spring Boot | API REST com testes unitários. |
-| [🔗 CryptoApp - Criptomoedas](https://github.com/Marcos-Gabriell/spring-CryptoApi) | Java, Spring Boot, Vue.js | Integração com Axios, persistência em MySQL. |
-| [🔗 Sistema de Ordens de Serviço](https://github.com/Marcos-Gabriell/os-backend) | Spring Boot, Angular | Front e Back integrados para gestão de ordens. |
-| [🔗 BlueFood](https://github.com/Marcos-Gabriell/BlueFood) | Spring MVC | Sistema estilo iFood com serviço de pagamento próprio. |
-| [🔗 BlueTasks](https://github.com/Marcos-Gabriell/BlueTasks) | Spring, Thymeleaf | Lista de tarefas com CRUD e marcação de status. |
+| [🔗 Microsserviços com Spring & RabbitMQ](https://github.com/Marcos-Gabriell/Microsservicos-SpringBoot-RabbitMQ) | Spring Boot · RabbitMQ · Docker · PostgreSQL · AWS | Arquitetura assíncrona com mensageria e serviços desacoplados. |
+| [🔗 Testes com Spring Boot](https://github.com/Marcos-Gabriell/testes-api) | Java · Spring Boot · JUnit 5 · Mockito | API REST com testes unitários e de integração. |
+| [🔗 CryptoApp](https://github.com/Marcos-Gabriell/spring-CryptoApi) | Java · Spring Boot · Vue.js · MySQL | Monitoramento de criptomoedas com API externa e persistência. |
+| [🔗 OS System](https://github.com/Marcos-Gabriell/os-backend) | Angular · Spring Boot · PostgreSQL | Sistema completo de gestão de ordens de serviço. |
+| [🔗 HelpDesk Frontend](https://github.com/Marcos-Gabriell/helpdesk-frontend) | Angular · TypeScript · Angular Material · JWT | Interface moderna e responsiva para gerenciamento de ordens de serviço, com autenticação JWT, guards de rota, HTTP Client e componentização modular. |
+| [🔗 BlueFood](https://github.com/Marcos-Gabriell/BlueFood) | Java · Spring Boot · Spring Security · MySQL · Hibernate · Thymeleaf | Sistema web inspirado no iFood, com cadastro de clientes e restaurantes, pedidos em tempo real, pagamentos por cartão e integração com serviço próprio de aprovação. |
+| [🔗 Impacto360 — Site](https://github.com/Marcos-Gabriell/impacto-site) | TypeScript · Next.js · Tailwind | Site institucional da empresa **Impacto360**, focada em marketing e mídia digital, com design moderno e layout responsivo. |
+
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Gabriell&show_icons=true&theme=tokyonight"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Gabriell&layout=compact&langs_count=8&theme=tokyonight"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Marcos-Gabriell&theme=tokyonight" alt="streak stats"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Marcos-Gabriell&theme=tokyonight&no-frame=true&row=1&margin-w=15&margin-h=10" />
+
+<br/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Gabriell&show_icons=true&theme=radical&bg_color=0,000000,0d1117&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&border_radius=15&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Gabriell&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0,000000,0d1117&title_color=00BFFF&text_color=FFFFFF&border_radius=15"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Marcos-Gabriell&theme=radical&hide_border=true&background=0D1117&fire=00BFFF&ring=00BFFF&currStreakLabel=FFFFFF" />
+
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcos-Gabriell&theme=tokyonight" />
+
 </div>
+
+
 
 ---
 
-## 🎯 Objetivo Profissional
-
-Estou pronto para desafios no mercado de tecnologia. Busco aplicar meu conhecimento em projetos reais, contribuindo com soluções de valor e crescendo tecnicamente. Acredito que **colaboração, prática constante e curiosidade** são os pilares de uma carreira de sucesso.
-
-> 💡 _"Cada linha de código é um passo rumo ao futuro que eu quero construir."_
-
----
-
-## 📬 Contato
-
-<div align="center">
-  <a href="mailto:marcosgabriel79355@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/marcosgabriel-dev/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://marcosgabriel.vercel.app">
-    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</div>
+## 🧩 Curiosidades
+- 🛡️ Fã de **Arquitetura e Engenharia de Software**
+- 🎮 Gamer e curioso por **UI/UX e design tech**
+- 🎵 Programo ouvindo música todos os dias 🎧  
+- 🤖 Explorando **IA + Dev** para produtividade e automação  
+- 💪 Acredito que **cada linha de código constrói o futuro**
