@@ -119,7 +119,6 @@ Busco sempre inovar e evoluir como profissional, aplicando conceitos de:
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Marcos-Gabriell&theme=radical&hide_border=true&background=0D1117&fire=00BFFF&ring=00BFFF&currStreakLabel=FFFFFF" />
 
 <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcos-Gabriell&theme=tokyonight" />
