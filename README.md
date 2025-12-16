@@ -11,8 +11,7 @@
 <img src="https://cdn.pixabay.com/photo/2017/05/09/13/33/laptop-2298286_1280.png" align="right" width="35%">
 
 
-Sou **Marcos Gabriel**, desenvolvedor **FullStack** com foco em **Java, Spring Boot e Angular**, apaixonado por transformar ideias em sistemas **robustos, escaláveis e seguros**.  
-Estudo programação desde os **14 anos** e, desde o final de **2021**, venho me aprofundando no desenvolvimento web, com ênfase em **arquitetura de software**, **boas práticas** e **engenharia aplicada**.
+Sou **Marcos Gabriel**, desenvolvedor **FullStack** com foco em **Java, Spring Boot e Angular**, apaixonado por transformar ideias em sistemas **robustos, escaláveis e seguros**. Estudo programação desde os **14 anos** e, desde o final de **2021**, venho me aprofundando no desenvolvimento web, com ênfase em **arquitetura de software**, **boas práticas** e **engenharia aplicada**.
 
 Busco sempre inovar e evoluir como profissional, aplicando conceitos de:
 - **Domain-Driven Design (DDD)** e **Arquitetura Hexagonal / Limpa / Diagonal**
