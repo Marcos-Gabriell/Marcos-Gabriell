@@ -88,9 +88,7 @@ Busco sempre inovar e evoluir como profissional, aplicando conceitos de:
 ![Integração Contínua](https://img.shields.io/badge/Integra%C3%A7%C3%A3o_Cont%C3%ADnua-000?style=for-the-badge&logo=githubactions)
 ![Construção do Análogo](https://img.shields.io/badge/Constru%C3%A7%C3%A3o_do_An%C3%A1logo-000?style=for-the-badge&logoColor=white)
 
-> 🎯 Aprimorando fundamentos de **arquitetura distribuída, integração contínua, automação de testes e segurança avançada**.  
-> Foco atual em **PHP/Laravel e Node.js** para criação de sistemas web completos, **comunicação entre microsserviços**, **design de APIs** e **melhores práticas de DevOps**.
-
+🎯 **Aprimorando fundamentos de arquitetura distribuída, integração contínua, automação de testes e segurança avançada**, com foco em **Java + Spring Boot e Angular**, aplicando **boas práticas de DevOps**, **microsserviços** e **design de APIs seguras**.
 
 ---
 
