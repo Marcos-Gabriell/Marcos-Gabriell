@@ -74,8 +74,6 @@ Busco sempre inovar e evoluir como profissional, aplicando conceitos de:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform)
 ![Vault](https://img.shields.io/badge/Vault-000?style=for-the-badge&logo=vault)
