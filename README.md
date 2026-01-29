@@ -79,11 +79,12 @@ public class MarcosProfile {
 
 <p align="center">
   <img
+    src="https://streak-stats.demolab.com?user=Marcos-Gabriell&theme=tokyonight"
     height="170"
-    src="https://streak-stats.demolab.com?user=Marcos-Gabriell&theme=tokyonight&hide_border=true&background=000428&ring=007BFF&fire=0052D4"
     alt="GitHub Streak"
   />
 </p>
+
 
 <hr/>
 
