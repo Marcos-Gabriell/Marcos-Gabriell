@@ -64,18 +64,6 @@ public class MarcosProfile {
 </pre>
 <h2>📊 Métricas do GitHub</h2>
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Marcos-Gabriell&show_icons=true&hide_border=true&theme=tokyonight&bg_color=000428&title_color=007BFF&icon_color=007BFF"
-    alt="GitHub Stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Gabriell&layout=compact&hide_border=true&theme=tokyonight&bg_color=000428&title_color=007BFF"
-    alt="Linguagens mais usadas"
-  />
-</p>
 
 <p align="center">
   <img
