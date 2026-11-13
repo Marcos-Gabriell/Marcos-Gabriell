@@ -24,9 +24,8 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** (UNIJORGE) e sou técn
 |---|---|---|
 | **SAFER, Gestão Sindical** · em homologação com o cliente | Sistema com 5 perfis de acesso: filiados, financeiro, jurídico com alertas de prazo, carteirinha digital com QR Code e chat em tempo real. Testes de integração com Testcontainers e E2E com Playwright. *(código privado do cliente)* | Java 17 · Spring Boot · Spring Security · PostgreSQL · Flyway · WebSocket · Docker · React |
 | [**Sistema Pousada do Brejo**](https://github.com/Marcos-Gabriell/sistema-pousada) · usado pela pousada | Gestão completa da pousada: reservas sem conflito de datas, hospedagens, financeiro com auditoria, relatórios em PDF e notificações em tempo real. | Java 11 · Spring Boot · JWT · PostgreSQL · WebSocket · Angular 19 · Tailwind |
-| [**Falcão Barbearia**](https://falcao-barbearia.vercel.app) · usado pela barbearia | Site público com SEO e agendamento online, mais um [painel administrativo](https://github.com/Marcos-Gabriell/front-barbearia) com agenda, clientes e financeiro. | Java · Spring Boot · Angular 19 · Next.js · PostgreSQL · Docker |
-| [**HelpDesk**](https://github.com/Marcos-Gabriell/helpdesk-backend) | Sistema de ordens de serviço com autenticação JWT e perfis de acesso. | Java · Spring Boot · Spring Security · Angular |
-| [**Microsserviços com RabbitMQ**](https://github.com/Marcos-Gabriell/Microsservicos-SpringBoot-RabbitMQ) | Estudo de arquitetura de microsserviços com comunicação assíncrona. | Java · Spring Boot 3 · RabbitMQ · PostgreSQL |
+| [**Falcão Barbearia**](https://www.falcaobarbearia.com.br) · usado pela barbearia | Site público com SEO e agendamento online, mais um [painel administrativo](https://github.com/Marcos-Gabriell/front-barbearia) com agenda, clientes e financeiro. | Java · Spring Boot · Angular 19 · Next.js · PostgreSQL · Docker |
+| **HelpDesk** · [back-end](https://github.com/Marcos-Gabriell/helpdesk-backend) · [front-end](https://github.com/Marcos-Gabriell/helpdesk-frontend) | Sistema de ordens de serviço com autenticação JWT e perfis de acesso. | Java · Spring Boot · Spring Security · Angular |
 
 ## Tecnologias
 
