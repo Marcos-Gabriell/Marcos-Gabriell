@@ -12,7 +12,7 @@
 
 Desenvolvedor Full Stack com foco em **Java + Spring Boot** no back-end e **Angular + TypeScript** no front-end.
 
-Desde 2024 venho estudando e buscando inovar, sempre com o objetivo de **resolver problemas reais através da tecnologia**. Sou apaixonado por construir sistemas que facilitam o dia a dia de quem usa, da modelagem do banco ao deploy.
+Meu interesse por programação começou em 2021, no primeiro ano do ensino médio. Logo depois entrei no curso técnico e fui descobrindo os cursos online da Softblue, Udemy e JDev. Desde então nunca parei de estudar, sempre buscando **resolver problemas reais através da tecnologia**, da modelagem do banco ao deploy.
 
 Estou cursando **Análise e Desenvolvimento de Sistemas** (UNIJORGE) e sou técnico em Desenvolvimento de Sistemas (SENAC).
 
@@ -22,9 +22,10 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** (UNIJORGE) e sou técn
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **SAFER, Gestão Sindical** · em homologação com o cliente | Sistema com 5 perfis de acesso: filiados, financeiro, jurídico com alertas de prazo, carteirinha digital com QR Code e chat em tempo real. Testes de integração com Testcontainers e E2E com Playwright. *(código privado do cliente)* | Java 17 · Spring Boot · Spring Security · PostgreSQL · Flyway · WebSocket · Docker · React |
-| [**Sistema Pousada do Brejo**](https://github.com/Marcos-Gabriell/sistema-pousada) · usado pela pousada | Gestão completa da pousada: reservas sem conflito de datas, hospedagens, financeiro com auditoria, relatórios em PDF e notificações em tempo real. | Java 11 · Spring Boot · JWT · PostgreSQL · WebSocket · Angular 19 · Tailwind |
-| [**Falcão Barbearia**](https://www.falcaobarbearia.com.br) · usado pela barbearia | Site público com SEO e agendamento online, mais um [painel administrativo](https://github.com/Marcos-Gabriell/front-barbearia) com agenda, clientes e financeiro. | Java · Spring Boot · Angular 19 · Next.js · PostgreSQL · Docker |
+| **Sistema de gestão sindical** · em homologação com o cliente | Sistema com 5 perfis de acesso: filiados, financeiro, jurídico com alertas de prazo, carteirinha digital com QR Code e chat em tempo real. Testes de integração com Testcontainers e E2E com Playwright. *(código privado do cliente)* | Java 17 · Spring Boot · Spring Security · PostgreSQL · Flyway · WebSocket · Docker · React |
+| [**Sistema de gestão para pousada**](https://github.com/Marcos-Gabriell/sistema-pousada) · em produção | Gestão completa da pousada: reservas sem conflito de datas, hospedagens, financeiro com auditoria, relatórios em PDF e notificações em tempo real. | Java 11 · Spring Boot · JWT · PostgreSQL · WebSocket · Angular 19 · Tailwind |
+| [**Sistema para barbearia**](https://github.com/Marcos-Gabriell/front-barbearia) · em produção | Site público com SEO local e agendamento online, mais um painel administrativo com agenda, clientes e financeiro. | Java · Spring Boot · Angular 19 · Next.js · PostgreSQL · Docker |
+| **Plataforma de consultas veiculares** · fase inicial | SaaS B2C: estruturei a base do back-end e do front-end, com consumo de APIs externas, geração de PDF e pagamentos Pix via Mercado Pago. *(código privado)* | Node.js · TypeScript · PostgreSQL · Redis · Next.js · Docker |
 | **HelpDesk** · [back-end](https://github.com/Marcos-Gabriell/helpdesk-backend) · [front-end](https://github.com/Marcos-Gabriell/helpdesk-frontend) | Sistema de ordens de serviço com autenticação JWT e perfis de acesso. | Java · Spring Boot · Spring Security · Angular |
 
 ## Tecnologias
