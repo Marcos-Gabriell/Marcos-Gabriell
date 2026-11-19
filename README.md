@@ -20,7 +20,7 @@ Meu interesse por programação começou em 2021, no primeiro ano do ensino méd
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (UNIJORGE) · Técnico em Desenvolvimento de Sistemas (SENAC)
 - 💼 Freelancer desde 2024, com sistemas em produção usados por negócios reais
-- 🎯 **Procurando minha primeira vaga** como Desenvolvedor Java Júnior ou Full Stack Java/Angular (remota, híbrida ou presencial)
+- 🎯 **Aberto a oportunidades** como Desenvolvedor Java ou Full Stack Java/Angular (remoto, híbrido ou presencial)
 
 ## 🛠️ O que eu entrego
 
@@ -40,7 +40,7 @@ Meu interesse por programação começou em 2021, no primeiro ano do ensino méd
 | **Sistema de gestão sindical** · em homologação | 5 perfis de acesso, filiados, financeiro, jurídico com alertas de prazo, carteirinha digital com QR Code e chat em tempo real. *(código privado do cliente)* | Java 17 · Spring Boot · PostgreSQL · Flyway · WebSocket · Docker |
 | [**Sistema de gestão para pousada**](https://github.com/Marcos-Gabriell/sistema-pousada) · em produção | Reservas sem conflito de datas, hospedagens, financeiro com auditoria, relatórios em PDF e notificações em tempo real. | Java 11 · Spring Boot · JWT · PostgreSQL · WebSocket · Angular 19 |
 | [**Sistema para barbearia**](https://github.com/Marcos-Gabriell/front-barbearia) · em produção | Painel administrativo com agenda, clientes e financeiro, mais site público com SEO local e agendamento online. | Java · Spring Boot · Angular 19 · Next.js · PostgreSQL · Docker |
-| **Plataforma de consultas veiculares** · fase inicial | SaaS B2C: estruturei a base do back-end e do front-end, com APIs externas, geração de PDF e Pix via Mercado Pago. *(código privado)* | Node.js · TypeScript · PostgreSQL · Redis · Next.js |
+| **Plataforma de consultas veiculares** · em produção | SaaS B2C: atuei na estruturação inicial do back-end e do front-end, com APIs externas, geração de PDF e Pix via Mercado Pago. O projeto seguiu e hoje está em produção. *(código privado)* | Node.js · TypeScript · PostgreSQL · Redis · Next.js |
 | **HelpDesk** · [back-end](https://github.com/Marcos-Gabriell/helpdesk-backend) · [front-end](https://github.com/Marcos-Gabriell/helpdesk-frontend) | Sistema de ordens de serviço com autenticação JWT e perfis de acesso. | Java · Spring Boot · Spring Security · Angular |
 
 ## 🧰 Tecnologias
